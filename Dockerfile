@@ -9,5 +9,3 @@ COPY ./ /usr/local/apache2/htdocs/
 RUN rm -f /usr/local/apache2/htdocs/index.html
 
 EXPOSE 10000
-
-
